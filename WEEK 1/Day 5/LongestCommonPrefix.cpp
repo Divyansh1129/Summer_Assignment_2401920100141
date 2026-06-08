@@ -6,7 +6,7 @@ Given an array of strings, find the longest common prefix shared among all the s
 Approach: Compare characters of the strings one by one and stop when a mismatch is found.
 
 Time Complexity: O(n × m)
-Space Complexity: O(1)
+Space Complexity: O(1) 
 */
 
 
