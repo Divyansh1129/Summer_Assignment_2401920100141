@@ -6,7 +6,7 @@ Design a railway compartment system using an abstract class and inheritance. Cre
 */
 
 
-import java.util.Random;
+import java.util.Random; 
 
 abstract class Compartment {
     public abstract String notice();
